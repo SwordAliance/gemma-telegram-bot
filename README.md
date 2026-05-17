@@ -10,14 +10,6 @@ Telegram-бот с Gemma, памятью, RAG и tool-calling.
 - RAG по папке knowledge/
 - инструменты: calculator, current_time, search_knowledge
 
-## Установка
-
-```bash
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-'''
-
 
 ## Как использовать
 складываете туда .txt, .md, .rst;
@@ -59,3 +51,13 @@ requirements.txt
 
 README.md
 Инструкция по запуску.
+
+
+## Установка
+
+```bash
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+
