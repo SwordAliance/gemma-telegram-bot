@@ -16,6 +16,8 @@ Telegram-бот с Gemma, памятью, RAG и tool-calling.
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+'''
+
 
 ## Как использовать
 складываете туда .txt, .md, .rst;
