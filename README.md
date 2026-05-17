@@ -17,7 +17,10 @@ python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
-
+## Как использовать
+складываете туда .txt, .md, .rst;
+запускаете python ingest.py;
+бот начинает искать ответы по этим текстам.
 
 app.py
 Главная точка входа Telegram-бота.
